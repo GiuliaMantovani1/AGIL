@@ -1,0 +1,6 @@
+site_name: My Docs
+
+nav:
+  - index.md
+  - AGIL-first page.md
+  - AGIL-second page.md
